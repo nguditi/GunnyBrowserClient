@@ -1,3 +1,0 @@
-- Qt 5.15
-- Build and deploy
-- Copy folder plugins to deployed path (
